@@ -1,4 +1,4 @@
-<h1>Javascript III (OnebitCode) <h1>
+<h1>Javascript III (OnebitCode) </h1>
 
 <p>No terceiro modulo do curso, aprendi primordialmente sobre os recursos do javascript moderno (ES6). </p>
 <p>Conteudo adquirido neste modulo: </p>
